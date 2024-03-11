@@ -1,0 +1,99 @@
+
+# General
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Temporary files
+*.bak
+*.cache
+*.log
+*.swp
+*~
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+venv/
+env/
+env.bak/
+
+# Node.js dependencies
+node_modules/
+
+# Compiled Java files
+bin/
+target/
+
+# Compiled C/C++ files
+*.out
+
+# Compiled LaTeX files
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.synctex.gz
+*.toc
+
+# Package files
+*.egg
+*.egg-info
+dist/
+build/
+
+# Configuration files
+*.config
+*.conf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Kubernetes config file
+.kube/config
+
+# Secrets files
+.secrets
