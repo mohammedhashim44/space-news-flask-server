@@ -97,3 +97,6 @@ build/
 
 # Secrets files
 .secrets
+
+# local database
+database.db
